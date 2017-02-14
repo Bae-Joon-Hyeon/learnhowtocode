@@ -5,7 +5,7 @@
 #include <Windows.h>
 #include <conio.h>
 #include <time.h>
-
+///
 #define height 20 //세로
 #define width 40 //가로
 #define UP 72
